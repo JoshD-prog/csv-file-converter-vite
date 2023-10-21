@@ -1,0 +1,40 @@
+Vendor_ID,Vendor,Invoice_Number,Invoice_Description,Invoice_amount,Invoice_Date,Due_Date,Post_Date,Invoice_Distribution_Amount,ProjectID,Invoice_Distribution_Amount1,Textbox19,AttrPCard,AuthorPCard,AttrFundingBank,AttrFundingBankDescription
+10034,Ameren,,Gas bill for MBC bldg.,$63.72 ,9/30/2019,10/3/2019,9/30/2019,$63.72 ,1231,63.72,01-02-23-5160-000,P-Card,"KELLEY, R-6972",Funding Bank,1001-OPERATING
+10034,Ameren,,Electric bill for MBC bldg.,"$4,054.59 ",9/30/2019,10/3/2019,9/30/2019,"$4,054.59 ",1230,4054.59,01-02-23-5160-000,P-Card,"KELLEY, R-6972",Funding Bank,1001-OPERATING
+10106,William Victor,"Eureka, MO",bonhoffer cohort,$121.00 ,10/2/2019,10/3/2019,10/2/2019,$121.00 ,,121,01-06-60-5110-602,P-Card,"SEATON, S-0519",Funding Bank,1001-OPERATING
+10112,Bob Greenlee,,Journalism Retreat,$176.40 ,9/26/2019,10/3/2019,9/26/2019,$176.40 ,,176.4,01-09-90-5150-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+10122,Brad Russell,,Bonhoffer  Co-hort,$118.68 ,10/2/2019,10/3/2019,10/2/2019,$118.68 ,,118.68,01-06-60-5330-000,P-Card,"SEATON, S-0519",Funding Bank,1001-OPERATING
+10398,GEneral printing,Inv. #115694,Hosting Apologetics postcards,$155.80 ,9/30/2019,10/3/2019,9/30/2019,$155.80 ,2014,155.8,02-00-00-5960-000,P-Card,"DOWELL, C-7135",Funding Bank,1024-CP PROMO
+10398,GEneral printing,Inv #115693,500 Engage Postcards (MB Collegiate),$189.06 ,9/30/2019,10/3/2019,9/30/2019,$189.06 ,1400,189.06,01-04-40-5310-000,P-Card,"DOWELL, C-7135",Funding Bank,1001-OPERATING
+10398,GEneral printing,Inv. #115697,Introducing the Missouri Baptist Convention cards,$201.20 ,9/30/2019,10/3/2019,9/30/2019,$201.20 ,1801,201.2,01-08-80-5320-000,P-Card,"DOWELL, C-7135",Funding Bank,1001-OPERATING
+10435,Heartland Baptist Association,,reimbursement Orange TX expenses,$282.81 ,10/1/2019,10/3/2019,10/1/2019,$282.81 ,3054,282.81,03-00-00-5980-000,P-Card,"BARB, E-0435",Funding Bank,1019-OTHER DESIGNATED
+10502,Jerry Palmer,,Meal reimbursement for set up team,$46.00 ,10/1/2019,10/3/2019,10/1/2019,$46.00 ,3054,46,03-00-00-5980-000,P-Card,"BARB, E-0435",Funding Bank,1019-OTHER DESIGNATED
+10776,PAM JEFFRIES,Mileage reimbursement,Resolutions Committee Meeting at HLGU,$136.30 ,10/1/2019,10/3/2019,10/1/2019,$136.30 ,,136.3,01-02-20-5310-000,P-Card,"JEFFRIES, P-5487",Funding Bank,1001-OPERATING
+10844,Richard Nations,,Journalism Retreat,$86.10 ,9/26/2019,10/3/2019,9/26/2019,$86.10 ,,86.1,01-09-90-5150-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+10914,"SONova Systems, LLC",4549,Address standardization,$68.07 ,10/1/2019,10/3/2019,10/1/2019,$68.07 ,1904,68.07,01-09-90-5361-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+11019,United States Postal One,,Return postage,$0.61 ,9/26/2019,10/3/2019,9/26/2019,$0.61 ,1904,0.61,01-09-90-5361-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+11019,United States Postal One,,return postage,$0.61 ,10/1/2019,10/3/2019,10/1/2019,$0.61 ,1904,0.61,01-09-90-5361-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+11019,usps,9/17/2019,Disaster Relief Postage for bulk mailing,$52.61 ,9/17/2019,10/3/2019,9/17/2019,$52.61 ,3005,52.61,03-00-00-5980-000,P-Card,"CLAY, J-4757",Funding Bank,1019-OTHER DESIGNATED
+11019,usps,9/17/2019,CLC Bulking mailing postage,$81.41 ,9/17/2019,10/3/2019,9/17/2019,$81.41 ,1903,81.41,01-09-90-5340-000,P-Card,"CLAY, J-4757",Funding Bank,1001-OPERATING
+11019,usps,9/12/2019,Foundation Postage for Bulk Mailing,$646.39 ,9/12/2019,10/3/2019,9/12/2019,$646.39 ,,646.39,01-00-00-1321-000,P-Card,"CLAY, J-4757",Funding Bank,1001-OPERATING
+11019,usps,9/25/2019,Youth Evang. Conference Postage for bulk mail.,$665.76 ,9/25/2019,10/3/2019,9/25/2019,$665.76 ,1302,665.76,01-03-30-5335-000,P-Card,"CLAY, J-4757",Funding Bank,1001-OPERATING
+11019,usps,9/21/2019,Lottie Moon Offering postage for Bulking ,$796.70 ,9/21/2019,10/3/2019,9/21/2019,$796.70 ,2121,796.7,02-00-00-5950-000,P-Card,"CLAY, J-4757",Funding Bank,1008-MMO
+11021,USPS Disbursing Office,703032421,Address change service,$73.47 ,9/25/2019,10/3/2019,9/25/2019,$73.47 ,1904,73.47,01-09-90-5361-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+11097,MCKnight Tire & Auto Center,20014552,Auto Maintenance,$71.90 ,9/30/2019,10/3/2019,9/30/2019,$71.90 ,,71.9,01-08-81-5110-810,P-Card,"JEFFRIES, P-5487",Funding Bank,1001-OPERATING
+11117,Dan Steinbeck,,Journalism Retreat,$94.50 ,9/26/2019,10/3/2019,9/26/2019,$94.50 ,,94.5,01-09-90-5150-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+11136,Ben Hess,,Field assistant mileage-Sept,$159.60 ,10/2/2019,10/3/2019,10/2/2019,$159.60 ,,159.6,01-05-50-5115-513,P-Card,"KIRKWEG, C-6790",Funding Bank,1001-OPERATING
+11403,US Rents it,1008953,DR Maintenance scabbard,$4.99 ,10/1/2019,10/1/2019,9/30/2019,$4.99 ,2103,4.99,02-00-00-5950-000,P-Card,"BARB, E-0435",Funding Bank,1008-MMO
+11403,US Rents it,1009331,DR Maintenance - starter spring,$10.99 ,10/1/2019,10/1/2019,9/30/2019,$10.99 ,2103,10.99,02-00-00-5950-000,P-Card,"BARB, E-0435",Funding Bank,1008-MMO
+11528,Globalpoint Technologies,US03-018-296,ExpensePoint Receipt Imaging & User Licenses,"$4,284.93 ",10/1/2019,10/3/2019,10/1/2019,"$4,284.93 ",1212,4284.93,01-02-21-5165-000,P-Card,"DOWD, C-8000",Funding Bank,1001-OPERATING
+11601,JC industrial,25488,DR Maintenance - Floor sweep/foam pad,$78.49 ,10/1/2019,10/3/2019,10/1/2019,$78.49 ,2103,78.49,02-00-00-5950-000,P-Card,"BARB, E-0435",Funding Bank,1008-MMO
+12113,Timothy Howe,,Journalism Retreat,$56.70 ,9/26/2019,10/3/2019,9/26/2019,$56.70 ,,56.7,01-09-90-5150-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+12210,William Shiffer,,Journalism Retreat,$50.75 ,9/26/2019,10/3/2019,9/26/2019,$50.75 ,,50.75,01-09-90-5150-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+12379,BROOKS CRAWFORD,,Hauling out @HPRCC Dirtwork,$33.64 ,9/9/2019,10/3/2019,9/9/2019,$33.64 ,1233,33.64,01-02-23-5161-000,P-Card,"KELLEY, R-6972",Funding Bank,1001-OPERATING
+12973,Jeremiah Greever,,Journalism Retreat,$110.25 ,9/26/2019,10/3/2019,9/26/2019,$110.25 ,,110.25,01-09-90-5150-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+13108,Miller Auto Supply,"625,178,625,716,625,000","cleaner, relay, brake adjusting tool",$61.90 ,10/3/2019,10/3/2019,10/3/2019,$61.90 ,2103,61.9,02-00-00-5950-000,P-Card,"BARB, E-0435",Funding Bank,1008-MMO
+13113,SCHEPPERS INTERNATIONAL,01P2743,replacement parts - DR truck maintenance,$131.86 ,10/3/2019,10/3/2019,10/3/2019,$131.86 ,2103,131.86,02-00-00-5950-000,P-Card,"BARB, E-0435",Funding Bank,1008-MMO
+13348,Neopost,9/27/2019,postage for postage machine,"$4,000.00 ",9/27/2019,10/3/2019,9/27/2019,"$4,000.00 ",,4000,01-02-24-5140-000,P-Card,"CLAY, J-4757",Funding Bank,1001-OPERATING
+13459,Roger Alford,Mileage reimbursement,Resolutions Committee Meeting at HLGU,$121.80 ,10/1/2019,10/3/2019,10/1/2019,$121.80 ,,121.8,01-02-20-5310-000,P-Card,"JEFFRIES, P-5487",Funding Bank,1001-OPERATING
+13460,Thomas P Hudson,,Journalism Retreat,$97.30 ,9/26/2019,10/3/2019,9/26/2019,$97.30 ,,97.3,01-09-90-5150-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+13460,Thomas Hudson,,Journalism Retreat,$250.00 ,9/26/2019,10/3/2019,9/26/2019,$250.00 ,,250,01-09-90-5150-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+13461,Donna Fishel,,Journalism Retreat,$98.70 ,9/26/2019,10/3/2019,9/26/2019,$98.70 ,,98.7,01-09-90-5150-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING

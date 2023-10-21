@@ -1,0 +1,47 @@
+Vendor_ID,Vendor,Invoice_Number,Invoice_Description,Invoice_amount,Invoice_Date,Due_Date,Post_Date,Invoice_Distribution_Amount,ProjectID,Invoice_Distribution_Amount1,Textbox19,AttrPCard,AuthorPCard,AttrFundingBank,AttrFundingBankDescription
+11019,11019 United States Postal One,12/9/2019,Postage Due Foundation,$0.61 ,12/9/2019,1/3/2020,12/9/2019,$0.61 ,,0.61,01-00-00-1321-000,P-Card,"CLAY, J-4757",Funding Bank,1001-OPERATING
+11019,United States Postal One,,Return postage,$0.61 ,12/18/2019,1/3/2020,12/18/2019,$0.61 ,1904,0.61,01-09-90-5361-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+11019,United States Postal One,,Return postage,$0.61 ,12/30/2019,1/3/2020,12/30/2019,$0.61 ,1904,0.61,01-09-90-5361-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+11019,United States Postal One,,Return postage,$0.61 ,12/9/2019,1/3/2020,12/9/2019,$0.61 ,1904,0.61,01-09-90-5361-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+11019,United States Postal One,,Return postage,$0.61 ,12/20/2019,1/3/2020,12/20/2019,$0.61 ,1904,0.61,01-09-90-5361-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+10716,MBCU,,Don Hinkle parking money for the capital ,$1.00 ,12/31/2019,1/3/2020,12/31/2019,$1.00 ,,1,01-09-90-5110-900,P-Card,"DOWD, C-8000",Funding Bank,1001-OPERATING
+11019,United States Postal One,,Return postage,$1.22 ,12/19/2019,1/3/2020,12/19/2019,$1.22 ,1904,1.22,01-09-90-5361-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+10716,MBCU,,Ben Hawkins parking meter money - Capital,$2.00 ,12/31/2019,1/3/2020,12/31/2019,$2.00 ,,2,01-09-90-5110-902,P-Card,"DOWD, C-8000",Funding Bank,1001-OPERATING
+10716,MBCU,,Samantha Spencer Notary Fee,$3.00 ,12/31/2019,1/3/2020,12/31/2019,$3.00 ,1212,3,01-02-21-5165-000,P-Card,"DOWD, C-8000",Funding Bank,1001-OPERATING
+10716,MBCU,,reimbursed Gaylon Moss for toll bridge expenses that he paid out of personal cash,$4.00 ,12/31/2019,1/3/2020,12/31/2019,$4.00 ,,4,01-06-62-5110-620,P-Card,"DOWD, C-8000",Funding Bank,1001-OPERATING
+10716,MBCU,,Tip for Cateror for September Team Day,$20.00 ,12/31/2019,1/3/2020,12/31/2019,$20.00 ,,20,01-01-10-5163-000,P-Card,"DOWD, C-8000",Funding Bank,1001-OPERATING
+10135,Brown Printing,181709,Business cards - B Koonce,$38.00 ,12/1/2019,12/1/2019,11/30/2019,$38.00 ,,38,01-09-90-5130-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+10271,Dennis Fletcher,,November & December cartoons,$40.00 ,12/17/2019,1/3/2020,12/17/2019,$40.00 ,1900,40,01-09-90-5361-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+12973,Jeremiah Greever,,December column,$50.00 ,12/17/2019,1/3/2020,12/17/2019,$50.00 ,1900,50,01-09-90-5361-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+10838,Rhonda  Rhea,,December column,$50.00 ,12/17/2019,1/3/2020,12/17/2019,$50.00 ,1900,50,01-09-90-5361-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+11021,USPS Disbursing Office,703055204,Address change service,$55.80 ,12/25/2019,1/3/2020,12/25/2019,$55.80 ,1904,55.8,01-09-90-5361-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+10564,Kayla Rinker,,1 story - December 17th issue,$75.00 ,12/17/2019,1/3/2020,12/17/2019,$75.00 ,1900,75,01-09-90-5361-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+12808,Scheuler's Lawn Care Service,1.22E+13,Snow & ice removal MBC bldg. & High Point bldg.,$100.00 ,12/17/2019,1/3/2020,12/17/2019,$100.00 ,1245,100,01-02-23-5162-000,P-Card,"KELLEY, R-6972",Funding Bank,1001-OPERATING
+10990,Three Rivers Electric Cooperative,,Electric for High Point bldg.,$110.07 ,12/23/2019,1/3/2020,12/23/2019,$110.07 ,1239,110.07,01-02-23-5160-000,P-Card,"KELLEY, R-6972",Funding Bank,1001-OPERATING
+12565,legal shield,GROUP # 35350,December 1st-31st Coverage 2019,$114.65 ,12/25/2019,1/3/2020,12/25/2019,$114.65 ,,114.65,01-00-00-2014-000,P-Card,"GOODWIN, S-1866",Funding Bank,1001-OPERATING
+11117,Dan Steinbeck,,2 stories - December 17th issue,$150.00 ,12/17/2019,1/3/2020,12/17/2019,$150.00 ,1900,150,01-09-90-5361-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+10030,Republic Services,0035-003587892,Trash Removal Hight Point bldg.,$158.67 ,12/20/2019,1/3/2020,12/20/2019,$158.67 ,1245,158.67,01-02-23-5162-000,P-Card,"KELLEY, R-6972",Funding Bank,1001-OPERATING
+10990,Three Rivers Electric Cooperative,,Wooden pole lgts High Point bldg.,$160.70 ,12/23/2019,1/3/2020,12/23/2019,$160.70 ,1239,160.7,01-02-23-5160-000,P-Card,"KELLEY, R-6972",Funding Bank,1001-OPERATING
+10461,James McCullen,,December SS lessons,$200.00 ,12/17/2019,1/3/2020,12/17/2019,$200.00 ,1900,200,01-09-90-5361-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+12846,Kale Uzzle,,Cohort leader honorarium,$225.00 ,12/18/2019,1/3/2020,12/18/2019,$225.00 ,,225,01-04-40-5325-000,P-Card,"PARRY, T-1511",Funding Bank,1001-OPERATING
+10030,Republic Services,0035-003586178,Trash removal MBC bldg.,$260.71 ,12/20/2019,1/3/2020,12/20/2019,$260.71 ,,260.71,01-02-23-5162-000,P-Card,"KELLEY, R-6972",Funding Bank,1001-OPERATING
+11779,Kenny Hoefener,,Maintenance reimbursements,$301.68 ,10/2/2020,1/3/2020,10/2/2020,$301.68 ,2134,301.68,02-00-00-5950-000,P-Card,"BARB, E-0435",Funding Bank,1008-MMO
+11019,11019 United States Postal One,12/13/2019,Bulk Mail Postage,$301.74 ,12/13/2019,1/3/2020,12/13/2019,$301.74 ,,301.74,01-02-20-5140-000,P-Card,"CLAY, J-4757",Funding Bank,1001-OPERATING
+12998,All in One Solutions LLC,4522,Water treatment MBC bldg.,$315.98 ,10/2/2020,1/3/2020,10/2/2020,$315.98 ,,315.98,01-02-23-5162-000,P-Card,"KELLEY, R-6972",Funding Bank,1001-OPERATING
+10840,Plumb Supply,6357888,Maint. supplies MBC bldg.,$386.97 ,12/18/2019,1/3/2020,12/18/2019,$386.97 ,1235,386.97,01-02-23-5161-000,P-Card,"KELLEY, R-6972",Funding Bank,1001-OPERATING
+11131,LBMC Technology Solutions,12436723,Software Development,$450.00 ,12/13/2019,1/3/2020,12/13/2019,$450.00 ,,450,01-08-81-5169-000,P-Card,"JEFFRIES, P-5487",Funding Bank,1001-OPERATING
+10474,Jason Yarnell,,Cohort leader honorarium,$450.00 ,12/18/2019,1/3/2020,12/18/2019,$450.00 ,,450,01-04-40-5325-000,P-Card,"PARRY, T-1511",Funding Bank,1001-OPERATING
+11019,11019 United States Postal One,12/12/2019,Bulk Mailing Postage,$497.79 ,12/12/2019,1/3/2020,12/12/2019,$497.79 ,2102,497.79,02-00-00-5950-000,P-Card,"CLAY, J-4757",Funding Bank,1008-MMO
+10018,Adam Stoddard,,Italy 2020 Trip Stoddards,$500.00 ,10/2/2020,1/3/2020,10/2/2020,$500.00 ,,500,01-05-50-5110-502,P-Card,"KIRKWEG, C-6790",Funding Bank,1001-OPERATING
+10018,Adam Stoddard,,Italy 2020 Trip Stoddards,$500.00 ,10/2/2020,1/3/2020,10/2/2020,$500.00 ,,500,01-05-50-5150-000,P-Card,"KIRKWEG, C-6790",Funding Bank,1001-OPERATING
+10135,Brown Printing,181592,Remittance Copies,$544.55 ,12/17/2019,1/3/2020,12/17/2019,$544.55 ,,544.55,01-02-20-5130-000,P-Card,"SPENCER, S-5016",Funding Bank,1001-OPERATING
+12808,Scheuler's Lawn Care Service,1.22E+13,Snow & ice removal MBC bldg. & High Point bldg.,$840.00 ,12/17/2019,1/3/2020,12/17/2019,$840.00 ,,840,01-02-23-5162-000,P-Card,"KELLEY, R-6972",Funding Bank,1001-OPERATING
+10890,Schindler,8105241020,preventative maint. MBC bldg. ,"$1,097.97 ",10/1/2020,10/1/2020,9/30/2020,"$1,097.97 ",,1097.97,01-02-23-5162-000,P-Card,"KELLEY, R-6972",Funding Bank,1001-OPERATING
+13427,OneAmerica,,"Employee Retirement Loans repayment - Dec 31, 2019 Pay date","$1,130.53 ",12/31/2019,1/3/2020,12/31/2019,"$1,130.53 ",,1130.53,01-00-00-2015-000,P-Card,"DOWD, C-8000",Funding Bank,1001-OPERATING
+10706,Mike Hibbard,,Cash for DR trip expenses,"$2,000.00 ",10/2/2020,1/3/2020,10/2/2020,"$2,000.00 ",3061,2000,03-00-00-5980-000,P-Card,"BARB, E-0435",Funding Bank,1019-OTHER DESIGNATED
+10170,"Central Mo. Newspapers, Inc",OE012562,Print job Dec. 14th issue,"$3,850.92 ",12/1/2019,12/1/2019,11/30/2019,"$3,850.92 ",1904,3850.92,01-09-90-5361-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+10422,GUIDEONE,Acct # 001123854-03,P&C Insurance,"$3,958.00 ",10/1/2020,1/3/2020,10/1/2020,"$3,958.00 ",1220,3958,01-02-22-5162-000,P-Card,"EARLS, P-4263",Funding Bank,1001-OPERATING
+12229,Huber & Associates,CW152514,Server Hosting & Maintenance,"$5,999.00 ",12/19/2019,1/3/2020,12/19/2019,"$5,999.00 ",1818,5999,01-08-81-5162-000,P-Card,"JEFFRIES, P-5487",Funding Bank,1001-OPERATING
+10170,"Central Mo. Newspapers, Inc",OE012562,Print job Dec. 14th issue,"$3,850.92 ",12/1/2019,12/1/2019,11/30/2019,"$3,850.92 ",1904,3850.92,01-09-90-5361-000,P-Card,"PEEPER, B-2069",Funding Bank,1001-OPERATING
+13427,OneAmerica,,December 31 pay date Annuity Contribution,"$14,002.52 ",12/31/2019,1/3/2020,12/31/2019,"$14,002.52 ",,14002.52,01-00-00-2013-000,P-Card,"DOWD, C-8000",Funding Bank,1001-OPERATING
+10422,GUIDEONE,Acct # 001123854-03,Property & Casualty Insurance,"$24,420.25 ",10/1/2020,1/3/2020,10/1/2020,"$24,420.25 ",1221,24420.25,01-02-22-5162-000,P-Card,"EARLS, P-4263",Funding Bank,1001-OPERATING

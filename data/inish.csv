@@ -1,0 +1,40 @@
+Expense ID,Expense ParentID,Expense Date Incurred,Expense Description,Expense Payment Type,GL Acct - Fund,GL Acct - Group,GL Acct - Department,GL Acct - Account Code,GL Acct - Position,GL Acct - Project No.,GL Acct - Vendor ID,GL Acct - Funding Bank,Expense Total ,Author Last Name,Author First Name,Author User Defined Fields - Account Number,Author User Defined Fields - P-Card,Author User Defined Fields - FNBO mapping,Expense Notes,Vendor,Invoice #
+12479127,,9302019,Gas bill for MBC bldg.,N-MBC Check-Mail Check,1,2,23,5160,0,1231,10034,1001,63.72,Kelley,Rebecca,XXXXXXXXXXXX6972,"KELLEY, R-6972",4.86E+15,,Ameren,
+12479128,,9302019,Electric bill for MBC bldg.,N-MBC Check-Mail Check,1,2,23,5160,0,1230,10034,1001,4054.59,Kelley,Rebecca,XXXXXXXXXXXX6972,"KELLEY, R-6972",4.86E+15,,Ameren,
+12479016,,10022019,bonhoffer cohort,N-MBC Check-Mail Check,1,6,60,5110,602,0,10106,1001,121,Seaton,Stacy,xxxx xxxx xxxx 0519,"SEATON, S-0519",4.86E+15,"Bill Victor, Brad Russell, Tommy Schmitt, Brandon Martin, Chris Norman and Caleb Heitmann. ",William Victor,"Eureka, MO"
+12478799,,9262019,Journalism Retreat,N-MBC Check-Mail Check,1,9,90,5150,0,0,10112,1001,176.4,Peeper,Beth,XXXXXXXXXXXX2069,"PEEPER, B-2069",4.86E+15,,Bob Greenlee,
+12479004,,10022019,Bonhoffer  Co-hort,N-MBC Check-Mail Check,1,6,60,5330,0,0,10122,1001,118.68,Seaton,Stacy,xxxx xxxx xxxx 0519,"SEATON, S-0519",4.86E+15,remaining expenses,Brad Russell,
+12479170,,9302019,Introducing the Missouri Baptist Convention cards,N-MBC Check-Return Ck to Dept,1,8,80,5320,0,1801,10398,1001,201.2,Dowell,Christie,xxxxxxxxxxxx7135,"DOWELL, C-7135",4.86E+15,"1,000 Introducing MBC cards",GEneral printing,Inv. #115697
+12479184,,9302019,Hosting Apologetics postcards,N-MBC Check-Return Ck to Dept,2,0,0,5960,0,2014,10398,1024,155.8,Dowell,Christie,xxxxxxxxxxxx7135,"DOWELL, C-7135",4.86E+15,250 postcards (hosting apologetics),GEneral printing,Inv. #115694
+12479192,,9302019,500 Engage Postcards (MB Collegiate),N-MBC Check-Return Ck to Dept,1,4,40,5310,0,1400,10398,1001,189.06,Dowell,Christie,xxxxxxxxxxxx7135,"DOWELL, C-7135",4.86E+15,postcards for MB Collegiate conference,GEneral printing,Inv #115693
+12477738,,10012019,reimbursement Orange TX expenses,N-MBC Check-Mail Check,3,0,0,5980,0,3054,10435,1019,282.81,Barb,Eric,XXXXXXXXXXXX0435,"BARB, E-0435",4.86E+15,,Heartland Baptist Association,
+12477762,,10012019,Meal reimbursement for set up team,N-MBC Check-Mail Check,3,0,0,5980,0,3054,10502,1019,46,Barb,Eric,XXXXXXXXXXXX0435,"BARB, E-0435",4.86E+15,"meals purchased for set up team prior to MBC card arriving on site. Jerry/Linda Palmer, Randy Reddell",Jerry Palmer,
+12478953,,10012019,Resolutions Committee Meeting at HLGU,N-MBC Check-Return Ck to Dept,1,2,20,5310,0,0,10776,1001,136.3,Jeffries,Pamela,XXXXXXXXXXXX5487,"JEFFRIES, P-5487",4.86E+15,,PAM JEFFRIES,Mileage reimbursement
+12478800,,9262019,Journalism Retreat,N-MBC Check-Mail Check,1,9,90,5150,0,0,10844,1001,86.1,Peeper,Beth,XXXXXXXXXXXX2069,"PEEPER, B-2069",4.86E+15,,Richard Nations,
+12479052,,10012019,Address standardization,N-MBC Check-Mail Check,1,9,90,5361,0,1904,10914,1001,68.07,Peeper,Beth,XXXXXXXXXXXX2069,"PEEPER, B-2069",4.86E+15,,"SONova Systems, LLC",4549
+12466157,,9122019,Foundation Postage for Bulk Mailing,L-Bank Draft,1,0,0,1321,0,0,11019,1001,646.39,Clay,Janice,xxxxxxxxxxxx4757,"CLAY, J-4757",4.86E+15,,usps,9/12/2019
+12466159,,9172019,Disaster Relief Postage for bulk mailing,L-Bank Draft,3,0,0,5980,0,3005,11019,1019,52.61,Clay,Janice,xxxxxxxxxxxx4757,"CLAY, J-4757",4.86E+15,,usps,9/17/2019
+12466162,,9172019,CLC Bulking mailing postage,L-Bank Draft,1,9,90,5340,0,1903,11019,1001,81.41,Clay,Janice,xxxxxxxxxxxx4757,"CLAY, J-4757",4.86E+15,,usps,9/17/2019
+12466166,,9212019,Lottie Moon Offering postage for Bulking ,L-Bank Draft,2,0,0,5950,0,2121,11019,1008,796.7,Clay,Janice,xxxxxxxxxxxx4757,"CLAY, J-4757",4.86E+15,,usps,9/21/2019
+12474757,,9252019,Youth Evang. Conference Postage for bulk mail.,L-Bank Draft,1,3,30,5335,0,1302,11019,1001,665.76,Clay,Janice,xxxxxxxxxxxx4757,"CLAY, J-4757",4.86E+15,,usps,9/25/2019
+12478937,,9262019,Return postage,L-Bank Draft,1,9,90,5361,0,1904,11019,1001,0.61,Peeper,Beth,XXXXXXXXXXXX2069,"PEEPER, B-2069",4.86E+15,,United States Postal One,
+12478962,,10012019,return postage,L-Bank Draft,1,9,90,5361,0,1904,11019,1001,0.61,Peeper,Beth,XXXXXXXXXXXX2069,"PEEPER, B-2069",4.86E+15,,United States Postal One,
+12478936,,9252019,Address change service,N-MBC Check-Mail Check,1,9,90,5361,0,1904,11021,1001,73.47,Peeper,Beth,XXXXXXXXXXXX2069,"PEEPER, B-2069",4.86E+15,,USPS Disbursing Office,703032421
+12481130,,9302019,Auto Maintenance,N-MBC Check-Mail Check,1,8,81,5110,810,0,11097,1001,71.9,Jeffries,Pamela,XXXXXXXXXXXX5487,"JEFFRIES, P-5487",4.86E+15,Oil Change for RAM 2500 Truck,MCKnight Tire & Auto Center,20014552
+12478794,,9262019,Journalism Retreat,N-MBC Check-Mail Check,1,9,90,5150,0,0,11117,1001,94.5,Peeper,Beth,XXXXXXXXXXXX2069,"PEEPER, B-2069",4.86E+15,,Dan Steinbeck,
+12479370,,10022019,Field assistant mileage-Sept,N-MBC Check-Mail Check,1,5,50,5115,513,0,11136,1001,159.6,Kirkweg,Cathie,XXXXXXXXXXXX6790,"KIRKWEG, C-6790",4.86E+15,,Ben Hess,
+12477407,,10012019,DR Maintenance scabbard,Y-Corporate FNBO Visa,2,0,0,5950,0,2103,11403,1008,4.99,Barb,Eric,XXXXXXXXXXXX0435,"BARB, E-0435",4.86E+15,,US Rents it,1008953
+12477421,,10012019,DR Maintenance - starter spring,Y-Corporate FNBO Visa,2,0,0,5950,0,2103,11403,1008,10.99,Barb,Eric,XXXXXXXXXXXX0435,"BARB, E-0435",4.86E+15,,US Rents it,1009331
+12477552,,10012019,ExpensePoint Receipt Imaging & User Licenses,N-MBC Check-Mail Check,1,2,21,5165,0,1212,11528,1001,4284.93,Dowd,Cheryl,XXXXXXXXXXXX8000,"DOWD, C-8000",4.86E+15,We are currently using 52 of the 65 licenses.  Leaving the Quantity as is because of the pricing we received when we started using EP.  ,Globalpoint Technologies,US03-018-296
+12477801,,10012019,DR Maintenance - Floor sweep/foam pad,N-MBC Check-Mail Check,2,0,0,5950,0,2103,11601,1008,78.49,Barb,Eric,XXXXXXXXXXXX0435,"BARB, E-0435",4.86E+15,,JC industrial,25488
+12478792,,9262019,Journalism Retreat,N-MBC Check-Mail Check,1,9,90,5150,0,0,12113,1001,56.7,Peeper,Beth,XXXXXXXXXXXX2069,"PEEPER, B-2069",4.86E+15,,Timothy Howe,
+12478796,,9262019,Journalism Retreat,N-MBC Check-Mail Check,1,9,90,5150,0,0,12210,1001,50.75,Peeper,Beth,XXXXXXXXXXXX2069,"PEEPER, B-2069",4.86E+15,,William Shiffer,
+12479271,,9092019,Hauling out @HPRCC Dirtwork,N-MBC Check-Return Ck to Dept,1,2,23,5161,0,1233,12379,1001,33.64,Kelley,Rebecca,XXXXXXXXXXXX6972,"KELLEY, R-6972",4.86E+15,"9.9.19 36 miles, 22 miles=58 miles",BROOKS CRAWFORD,
+12478782,,9262019,Journalism Retreat,N-MBC Check-Mail Check,1,9,90,5150,0,0,12973,1001,110.25,Peeper,Beth,XXXXXXXXXXXX2069,"PEEPER, B-2069",4.86E+15,,Jeremiah Greever,
+12481206,,10032019,"cleaner, relay, brake adjusting tool",N-MBC Check-Mail Check,2,0,0,5950,0,2103,13108,1008,61.9,Barb,Eric,XXXXXXXXXXXX0435,"BARB, E-0435",4.86E+15,,Miller Auto Supply,"625,178,625,716,625,000"
+12481199,,10032019,replacement parts - DR truck maintenance,N-MBC Check-Mail Check,2,0,0,5950,0,2103,13113,1008,131.86,Barb,Eric,XXXXXXXXXXXX0435,"BARB, E-0435",4.86E+15,,SCHEPPERS INTERNATIONAL,01P2743
+12477197,,9272019,postage for postage machine,L-Bank Draft,1,2,24,5140,0,0,13348,1001,4000,Clay,Janice,xxxxxxxxxxxx4757,"CLAY, J-4757",4.86E+15,,Neopost,9/27/2019
+12478957,,10012019,Resolutions Committee Meeting at HLGU,N-MBC Check-Mail Check,1,2,20,5310,0,0,13459,1001,121.8,Jeffries,Pamela,XXXXXXXXXXXX5487,"JEFFRIES, P-5487",4.86E+15,,Roger Alford,Mileage reimbursement
+12478803,,9262019,Journalism Retreat,N-MBC Check-Mail Check,1,9,90,5150,0,0,13460,1001,97.3,Peeper,Beth,XXXXXXXXXXXX2069,"PEEPER, B-2069",4.86E+15,,Thomas P Hudson,
+12479028,,9262019,Journalism Retreat,N-MBC Check-Mail Check,1,9,90,5150,0,0,13460,1001,250,Peeper,Beth,XXXXXXXXXXXX2069,"PEEPER, B-2069",4.86E+15,,Thomas Hudson,
+12478801,,9262019,Journalism Retreat,N-MBC Check-Mail Check,1,9,90,5150,0,0,13461,1001,98.7,Peeper,Beth,XXXXXXXXXXXX2069,"PEEPER, B-2069",4.86E+15,,Donna Fishel,
