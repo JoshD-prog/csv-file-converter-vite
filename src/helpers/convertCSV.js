@@ -1,10 +1,12 @@
 
 import{ DateTime } from 'luxon';
 import Papa from 'papaparse';
-import { in_file } from './constants';
 
+// used for parsing currency
 const locale = 'en-US';
 
+// This is the list of headers that the program checks have value for each row\
+// TODO: this list may need refinement.
 const in_csv_required_headers = [
   'Expense Date Incurred', 
   'Expense Payment Type',                             
@@ -12,6 +14,7 @@ const in_csv_required_headers = [
   'Vendor'                
 ];
 
+// These are the headers that will be added at the top of the output csv
 const out_csv_headers = [
   'Vendor_ID',                   // 00 A
   'Vendor',                      // 01 B
@@ -100,10 +103,13 @@ export function generateCSVText(in_csv, isVisa) {
 
   return { csvText, errors };
 }
-
+// Processing is done row by row. Rules are applied to the output 
+// based on the contents of the input row, and based on whether or not the file is to be 
+// processed as a visa
 function processRow(row, isVisa, counter) {
  const return_row = new Array(out_csv_headers.length).fill(null);
   try {
+    // Do a check to see if any required values are missing
     const missing_headers = []
     in_csv_required_headers.forEach((header)=>{
       if(row[header] === '') {
@@ -129,6 +135,8 @@ function processRow(row, isVisa, counter) {
 
     const col_e = row['Expense Payment Type'];
     const out_date_format = 'MM/dd/yyyy';
+    // If I were to refactor this, I would probably want to change it so that
+    // the return_row used the column headers instead of indexes for readability
     return_row[0] = row['GL Acct - Vendor ID'];
     return_row[1] = row['Vendor'];
     return_row[2] = row['Invoice #'];
@@ -137,7 +145,8 @@ function processRow(row, isVisa, counter) {
       style: 'currency',
       currency: 'USD',
     });
-    
+
+    // The way the dates are handled here is probable the most complicated logic that happens
     if (isVisa) {
       const first = DateTime.local().startOf('month');
       return_row[5] = col_c_date.toFormat(out_date_format).replace(/^0+/, ''); // Remove leading zeros
@@ -180,6 +189,8 @@ function processRow(row, isVisa, counter) {
     return { return_row, error: null };
   } catch (e) {
     console.error(e);
+    // errors are returned here instead of thrown, so that all the rows can be evaluated
+    // for errors before displaying info to the user.
     return { return_row, error: `data issue on row #${counter}: ${e}` };
   }
 }
