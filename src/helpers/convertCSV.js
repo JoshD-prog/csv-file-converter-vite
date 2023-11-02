@@ -1,4 +1,3 @@
-
 import{ DateTime } from 'luxon';
 import Papa from 'papaparse';
 
@@ -147,6 +146,9 @@ function processRow(row, isVisa, counter) {
     });
 
     // The way the dates are handled here is probable the most complicated logic that happens
+    // This bit is the main part of the program that makes this a little more than just a simple 
+    // shifting of column order. It's really not too bad: four conditions of how to handle dates.
+    // If I was more inclined toward VBA all of this might have been easy to create as a script in excel.
     if (isVisa) {
       const first = DateTime.local().startOf('month');
       return_row[5] = col_c_date.toFormat(out_date_format).replace(/^0+/, ''); // Remove leading zeros

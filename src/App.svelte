@@ -32,6 +32,9 @@
 
   let errors = [];
   let showModal = false;
+  //this function calls the generateCSVText to get the output csv
+  //opens the error modal if there are errors
+  //and gives the file as a download to the user
   function downloadCSV() {
     console.log('downloadCSV');
     if (csvText) {
@@ -46,6 +49,7 @@
         const a = document.createElement('a');
         a.style.display = 'none';
         a.href = url;
+        //TODO: filename should be updated to something more usefull
         a.download = 'downloaded.csv';
         document.body.appendChild(a);
         a.click();
