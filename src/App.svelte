@@ -126,21 +126,18 @@
     padding: 1.5rem;
     border: 2px dashed #e2e8f0;
     border-radius: 8px;
-    background-color: #f8fafc;
     text-align: center;
     transition: all 0.2s ease;
   }
 
   .file-upload-container:hover {
     border-color: #cbd5e0;
-    background-color: #f5f7fa;
   }
 
   .file-upload-label {
     display: block;
     font-weight: 600;
     margin-bottom: 1rem;
-    color: #4a5568;
   }
 
   .file-input {
@@ -156,8 +153,6 @@
   .file-input-button {
     display: inline-block;
     padding: 0.75rem 1.5rem;
-    background-color: #edf2f7;
-    color: #4a5568;
     border: 1px solid #e2e8f0;
     border-radius: 6px;
     font-weight: 500;
@@ -166,13 +161,12 @@
   }
 
   .file-input-button:hover {
-    background-color: #e2e8f0;
+    border-color: #646cff;
   }
 
   .selected-file {
     margin-top: 1rem;
     font-size: 0.875rem;
-    color: #718096;
   }
 
   .error {

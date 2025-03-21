@@ -17,5 +17,6 @@
   "dependencies": {
     "luxon": "^3.4.3",
     "papaparse": "^5.4.1"
-  }
+  },
+  "packageManager": "yarn@4.7.0"
 }
